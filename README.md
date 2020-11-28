@@ -10,6 +10,7 @@ A student that completes this project shows that they can:
 
 ## Introduction
 
+- [x] Initial commit
 This is a basic database scheme with users, user emails, and user roles. This Java Spring REST API application will provide endpoints for clients to perform the various CRUD operations on data sets contained in the application's data.
 
 ### Database layout
